@@ -1,0 +1,59 @@
+.match-card {
+    width: 420px;
+    background-color: #000b42;
+    border-radius: 6px;
+
+    padding: 20px 10px;
+    color: #fff;
+
+    margin: 10px;
+
+    cursor: pointer;
+}
+
+.match-card h2 {
+    font-weight: 500;
+    padding: 0;
+    margin: 0;
+
+    font-size: 20px;
+}
+
+.match-card h4 {
+    font-weight: normal;
+    padding: 0;
+    margin: 5px 0 25px 0;
+
+    font-size: 15px;
+}
+
+.match-details p {
+    padding: 0;
+    margin: 0 0 10px 0;
+
+    font-size: 15px;
+}
+
+.match-details p.match-rounds {
+    background-color: #00bfa2;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 4px 14px;
+    border-radius: 5px;
+
+    margin: 0 0 15px 0;
+}
+
+.match-sub-card {
+    display: flex;
+}
+
+.match-sub-card .match-logo {
+    width: 65px;
+    height: 65px;
+}
+
+.match-sub-card .team-avatar {
+    flex: 0.35;
+    margin: 0 auto;
+}

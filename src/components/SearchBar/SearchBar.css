@@ -1,0 +1,24 @@
+.search-container {
+    border: solid 2px darkgrey;
+    border-radius: 5px;
+
+    width: 400px;
+
+    display: flex;
+    align-items: center;
+    padding: 8px;
+
+    margin: 20px 0 20px auto;
+}
+
+.search-container svg {
+    color: darkgrey;
+    margin-right: 10px;
+}
+
+.search-container input {
+    outline: none;
+    border: none;
+
+    font-size: 15px;
+}

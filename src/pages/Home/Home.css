@@ -1,0 +1,18 @@
+bosy {
+    margin: 0;
+    padding: 0;
+}
+.home {
+    padding: 10px 20px;
+}
+
+.home h1 {
+    color: #00165a;
+    font-size: 30px;
+}
+
+.match-list {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
